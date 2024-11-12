@@ -42,7 +42,11 @@ git push 别名 分支名
 git pull 别名 分支名
 
 代码克隆 Clone
+git clone url
+
 SSH免密登录
+ssh-keygen -t rsa -C github地址
+
 Idea集成GIthub
 
 ## GitLab
