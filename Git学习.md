@@ -31,12 +31,16 @@ git merge 分支名
 
 ## Github
 
+创建远程库
 git remote -v 查看当前远程库的别名
 git remote add 别名
 
-创建远程库
 代码推送 Push
+git push 别名 分支名
+
 代码拉取 Pull
+git pull 别名 分支名
+
 代码克隆 Clone
 SSH免密登录
 Idea集成GIthub
