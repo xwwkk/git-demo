@@ -38,6 +38,7 @@ git remote add 别名 url
 代码推送 Push
 git push 别名 分支名
 
+代码拉取 Pull
 git pull 别名 分支名
 
 代码克隆 Clone
